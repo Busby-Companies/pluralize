@@ -2,7 +2,7 @@
   "name": "@busby-companies/pluralize",
   "version": "1.0.3",
   "description": "Pluralize and singularize any word",
-  "repository": "https://github.com/capaj/pluralize.git",
+  "repository": "git://github.com/Busby-Companies/adstakr-sdk.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
     "access": "restricted"
