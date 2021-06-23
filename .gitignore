@@ -4,3 +4,16 @@ components
 build
 coverage
 dist
+# Created by https://www.toptal.com/developers/gitignore/api/dotenv,direnv
+# Edit at https://www.toptal.com/developers/gitignore?templates=dotenv,direnv
+
+### direnv ###
+.direnv
+.envrc
+
+### dotenv ###
+.env
+
+# End of https://www.toptal.com/developers/gitignore/api/dotenv,direnv
+
+.pnpm-debug.log
