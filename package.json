@@ -1,7 +1,12 @@
 {
-  "name": "@capaj/pluralize",
+  "name": "@busby-companies/pluralize",
   "version": "1.0.3",
   "description": "Pluralize and singularize any word",
+  "repository": "https://github.com/capaj/pluralize.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "restricted"
+  },
   "source": "src/pluralize.ts",
   "types": "dist/pluralize.d.ts",
   "type": "module",
@@ -20,7 +25,6 @@
     "build": "microbundle",
     "prepare": "npm run build"
   },
-  "repository": "https://github.com/capaj/pluralize.git",
   "keywords": [
     "plural",
     "plurals",
